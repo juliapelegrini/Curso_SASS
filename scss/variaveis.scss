@@ -1,0 +1,12 @@
+$width:100%;
+$font-size:1.2rem;
+$background:#962acd;
+$color:#fff;
+$border-style: solid 1px $color;
+
+nav{
+    background: $background;
+    color: $color;
+    width: $width;
+    font-size: $font-size;
+}
